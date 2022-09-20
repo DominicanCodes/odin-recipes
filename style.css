@@ -1,3 +1,7 @@
+* {
+    background-color: rgb(240, 187, 140);
+}
+
 h1 {
     text-align: center;
     font-weight: 600;
@@ -12,6 +16,13 @@ h1 {
     width: 35%;
 }
 
+#end-msg {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+}
+
 ul.nav {
     list-style: square;
 }
@@ -22,8 +33,9 @@ a {
 
 img.showcase {
     height: auto;
-    width: 40%;
+    width: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10%;
 }
