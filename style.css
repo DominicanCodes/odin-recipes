@@ -12,7 +12,7 @@ h1 {
     width: 35%;
 }
 
-ul {
+ul.nav {
     list-style: square;
 }
 
