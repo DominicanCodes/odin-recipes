@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.dom-rep {
+    background-color: blue;
+    color: white;
+    border-style: dashed;
+    border-color: red;
+    width: 35%;
+}
+
+ul {
+    list-style: square;
+}
+
+a {
+    font-style: oblique;
+}
